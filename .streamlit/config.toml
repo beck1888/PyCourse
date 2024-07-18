@@ -1,5 +1,6 @@
 [server]
 headless = true
+address = "localhost"
 
 [theme]
 base = "light"
